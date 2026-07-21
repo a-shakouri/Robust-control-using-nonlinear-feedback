@@ -1,2 +1,2 @@
-# Robust-control-using-nonlinear-feedback
-This repository contains MATLAB simulation codes for (nonlinear/dynamic) robust controller design for discrete-time LTI systems with large uncertainty.
+# Robust control using nonlinear dynamic state-feedback
+This repository contains MATLAB code for designing a (nonlinear/dynamic) robust controller for discrete-time LTI systems with large uncertainty.
