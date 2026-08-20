@@ -22,6 +22,5 @@ This repository includes the following MATLAB files:
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[^1]: [Shakouri, A., Heidema, M., van Waarde, H.J., 2026. Robust Stabilization of Linear Systems Requires Nonlinear Dynamic
-Feedback. ArXiv](ArXiv link).
+[^1]: [Shakouri, A., Heidema, M., van Waarde, H.J., 2026. Robust stabilization of discrete-time linear systems requires nonlinear dynamic feedback. arXiv:2608.19010](https://arxiv.org/abs/2608.19010).
 
