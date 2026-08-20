@@ -1,6 +1,6 @@
 # Robust control using nonlinear dynamic state-feedback
 
-MATLAB code for the example in Ref.[^1]. These codes use MATLAB with YALMIP [^2] and MOSEK [^3]. 
+MATLAB code for the example in Ref.[^1]. We use MATLAB with YALMIP [^2] and MOSEK [^3]. 
 
 ## File(s)
 
