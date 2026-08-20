@@ -1,6 +1,6 @@
 # Robust control using nonlinear dynamic state-feedback
 
-MATLAB code for the example in Ref.[^1]. 
+MATLAB code for the example in Ref.[^1]. These codes use MATLAB with YALMIP [^2] and MOSEK [^3]. 
 
 ## File(s)
 
@@ -23,4 +23,6 @@ This repository includes the following MATLAB files:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 [^1]: [Shakouri, A., Heidema, M., van Waarde, H.J., 2026. Robust stabilization of discrete-time linear systems requires nonlinear dynamic feedback. arXiv:2608.19010](https://arxiv.org/abs/2608.19010).
+[^2]: Lofberg, J., 2004. YALMIP : A Toolbox for Modeling and Optimization in MATLAB. In Proceedings of the CACSD Conference.
+[^3]: [MOSEK ApS, 2026. The MOSEK Python Fusion API manual. Version 11.0.](https://docs.mosek.com/latest/pythonfusion/index.html)
 
